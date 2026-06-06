@@ -14,11 +14,11 @@ cursor = conn.cursor()
 
 # GitHub Raw File Links
 github_files = {
-    "Customers": "https://raw.githubusercontent.com/MontyVasita18/Sales-Data-Analysis-Using-Python-SQL/main/Customers.csv",
-    "Employees": "https://raw.githubusercontent.com/MontyVasita18/Sales-Data-Analysis-Using-Python-SQL/main/Employees.csv",
-    "Orders": "https://raw.githubusercontent.com/MontyVasita18/Sales-Data-Analysis-Using-Python-SQL/main/Orders%20(1).csv",
-    "Products": "https://raw.githubusercontent.com/MontyVasita18/Sales-Data-Analysis-Using-Python-SQL/main/Products.csv",
-    "Suppliers": "https://raw.githubusercontent.com/MontyVasita18/Sales-Data-Analysis-Using-Python-SQL/main/Suppliers.csv"
+    "Customers": "https://raw.githubusercontent.com/mukeshmagar543/Sales-Data-Analysis-Project-ETL-Analysis-/refs/heads/main/Customers.csv",
+    "Employees": "https://raw.githubusercontent.com/mukeshmagar543/Sales-Data-Analysis-Project-ETL-Analysis-/refs/heads/main/Employees.csv",
+    "Orders": "https://raw.githubusercontent.com/mukeshmagar543/Sales-Data-Analysis-Project-ETL-Analysis-/refs/heads/main/Orders%20(1).csv",
+    "Products": "https://raw.githubusercontent.com/mukeshmagar543/Sales-Data-Analysis-Project-ETL-Analysis-/refs/heads/main/Products.csv",
+    "Suppliers": "https://raw.githubusercontent.com/mukeshmagar543/Sales-Data-Analysis-Project-ETL-Analysis-/refs/heads/main/Suppliers.csv"
 }
 
 # Insert data into MySQL
